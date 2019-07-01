@@ -16,3 +16,12 @@ http : To make Node.js act as an HTTP server
 https : To make Node.js act as an HTTPS server
 
 zlib : To compress or decompress files
+
+Install Globally : 
+npm install -g packagename
+
+Install locally : 
+npm install packagename
+
+Build package.json : 
+npm init

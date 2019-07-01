@@ -25,3 +25,6 @@ npm install packagename
 
 Build package.json : 
 npm init
+
+Add dependency to package.json file : 
+npm install express --save

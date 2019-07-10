@@ -17,6 +17,7 @@ https : To make Node.js act as an HTTPS server
 
 zlib : To compress or decompress files
 
+# Commands
 Install Globally : 
 npm install -g packagename
 
@@ -28,3 +29,9 @@ npm init
 
 Add dependency to package.json file : 
 npm install express --save
+
+In Linux:
+DEBUG=* node app.js
+
+In Windows:
+set DEBUG=* & node app.js
